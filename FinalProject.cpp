@@ -12,7 +12,7 @@
  * 7. read to file.
  * 8. delete file.
 
-@author Itamar Brina, 208560920*/
+@author Itamar Brina*/
 #include <iostream>
 #include <vector>
 #include <map>
